@@ -1,3 +1,5 @@
 # Python_learning_projects
-In this repository will be used for the learning projects in python.  
-The first project to be found is the Madlib project on the 06_madlib folder
+This repository will be used for storing the learning projects in python.  
+The repository is made up of the following projects:  
+- Madlib project (06_madlib)  
+- Guess number game (07_guess_game)
